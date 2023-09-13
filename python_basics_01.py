@@ -16,27 +16,29 @@ Original file is located at
 #    1. Single Line Comment
 #    2. Multi Line Comment
 
-# To Print something in Python
+# Multi line Comment is of '''
 
 '''
 This is a python print function
 Print is a keyword in python
 print should have
 '''
-
-
+-------------------------------------------------------------------------------------------
+# To Print something in Python
 
 print ("Course")
 print ("Hello World")
 
 print ('Hello World')
-
+-----------------------------------------------------------------------------------------
 # Variable means that tends to change
 a = 3 #means that assigning a value 3 to variable "a"
 Name = "Brand"
 Age = 32
 print (Name)
 print (Age)
+
+---------------------------------------------------------------------------
 
 Tata_Steel = 32300
 Adani_Enterprises = 18226
@@ -45,13 +47,13 @@ Bharti_Airtel = 79800
 print (f"The Capex Plans in FY23 and FY24 of Tata Steel is {Tata_Steel}; Adani Enterprises is {Adani_Enterprises} and Bharti Airtel is {Bharti_Airtel}")
 
 # Here "f" is f-string and it lets us use palceholder expressions to display strings
-
+----------------------------------------------------------------------------------------------
 Tata_Steel = 32300
 Adani_Enterprises = 18226
 Bharti_Airtel = 79800
 
 print (f"The Capex Plans in FY23 and FY24 of Tata Steel is {Tata_Steel}; Adani Enterprises is {Adani_Enterprises} and Bharti Airtel is {Bharti_Airtel}")
-
+-----------------------------------------------------------------------------------------------------------------------------------------
 # If we want to print x,y,z same values
 
 x = y = z = "Brand"
@@ -59,4 +61,4 @@ x = y = z = "Brand"
 print(x)
 print(y)
 print(z)
-
+------------------------------------------------------------------------------------------------------------
